@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 75px;
+    margin-right:75px;
+}
+
+h1{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h4{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: bold;
+    margin: 30px;
+    margin-left: 75px;
+    margin-right:75px;
+}
+
+hr{
+    margin-left: 75px;
+    margin-right:75px;
+}
+
+header{
+    background-image: url(https://github.com/ironhack-labs/lab-css-recipes-clone/blob/master/apple-pie/images/apple-pie.jpg?raw=true);
+    height: 20em;
+    background-size: cover;
+
+}
+
+.headertitle {
+ color : white;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+.headerImage {
+    width: 100%;
+   
+}
